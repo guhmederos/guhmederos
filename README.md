@@ -1,9 +1,9 @@
-### olá 👋
+### Hey 👋
 
 
 
 
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL
+- 🌱 I’m Front End Developer
 - 📫 How to reach me: gustavomedeiros098@gmail.com
 
